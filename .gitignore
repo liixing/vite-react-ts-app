@@ -151,12 +151,12 @@ dist
 .pnp.*
 OBOBOB
 ### VisualStudioCode ###
-# .vscode/*
-# .vscode/settings.json
-# !.vscode/tasks.json
-# !.vscode/launch.json
-# !.vscode/extensions.json
-# *.code-workspace
+.vscode/*
+.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
 
 # Local History for Visual Studio Code
 .history/
@@ -233,5 +233,7 @@ $RECYCLE.BIN/
 .env.development.local
 .env.test.local
 .env.production.local
+
+.gitignore
 
 
