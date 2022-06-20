@@ -1,0 +1,42 @@
+{
+    "cSpell.words": [
+        "_signup",
+        "ahooks",
+        "Aliyun",
+        "antd",
+        "braft",
+        "Cascader",
+        "ccnuyan",
+        "chtml",
+        "codegen",
+        "controlbar",
+        "Craco",
+        "demobox",
+        "draftjs",
+        "fullhash",
+        "jievince",
+        "katex",
+        "MATHITS",
+        "mathjax",
+        "prefetch",
+        "resetpass",
+        "Sider",
+        "signin",
+        "Signup",
+        "unstyle",
+        "unstyled",
+        "webfonts"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "node_modules": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+}
